@@ -1,2 +1,2 @@
 # AiCore_MovieAssistant
-work for MovieAssitant project
+work for MovieAssistant project
